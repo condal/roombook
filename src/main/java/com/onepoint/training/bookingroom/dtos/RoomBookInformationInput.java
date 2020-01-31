@@ -16,10 +16,8 @@ public class RoomBookInformationInput {
 
 	private String lastName;
 
-	@NonNull
 	private LocalDate startDate;
 
-	@NonNull
 	private LocalDate endDate;
 
 	private int numberOfPersons;
